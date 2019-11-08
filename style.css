@@ -41,6 +41,15 @@ body{
     padding: 20px;
 }
 
+.container h3{
+    font-weight: bold;
+    font-size: 20px;
+    color: turquoise;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 70px;
+    margin-left: 20px;
+    padding: 20px;
+}
 
 #firstblock {
     width: 85%;
