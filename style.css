@@ -18,25 +18,49 @@ body{
 }
 
 .container {
-    
-    background-color: white;
-    
-    
-    
+    background-color: white;    
 }
 
 .container h1{
     font-weight: bold;
-    font-size: 250%;
+    font-size: 40px;
     color: turquoise;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: 70px;
-   padding: 20px;
+    padding: 20px;
     margin-left: 30px;
     align-content: center;
 }
+.container h2{
+    font-weight: bold;
+    font-size: 30px;
+    color: turquoise;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 70px;
+    margin-left: 20px;
+    padding: 20px;
+}
 
-p {
+
+#firstblock {
+    width:90%;
+}
+
+#secondblock {
+    margin-left: 25px;
+    width:85%;
+}
+
+.col-md-12 h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#firstblock img{
+    float: left;
+}
+
+p{
     line-height: 1.8;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
