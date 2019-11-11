@@ -11,14 +11,16 @@
 
 .navbar-nav li {
     display:inline-block;     
-}
-
+  }
+  
 body{
     background-color: grey;
 }
 
 .container {
-    background-color: white;    
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container h1{
@@ -52,7 +54,7 @@ body{
 }
 
 #firstblock {
-    width: 85%;
+    width: 90%;
     margin-bottom: 20px;
     padding: 0px 10px 20px 10px;
 }
@@ -67,6 +69,7 @@ body{
 .col-md-12 h2{
     margin-top: 30px;
     margin-bottom: 30px;
+
 }
 
 #firstblock img{
@@ -77,3 +80,4 @@ p{
     line-height: 1.8;
     margin-bottom: 50px;
 }
+
